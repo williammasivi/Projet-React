@@ -3,9 +3,12 @@ import Timeline from "./component/Timeline";
 
 
 function App() {
-  return (
+  return (<>
+     <div></div>
     <Timeline />
-    
+    <div></div>
+  </>
+   
   )
 }
 
